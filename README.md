@@ -1,11 +1,11 @@
-# feast-db2-warehouse
+# feast-ibmdb
 IBM Db2 support for Feast offline store
 
-# Feast db2 warehouse Support
+# Feast db2 Support
 
 !!NOTE this is a work in progress and may not work!!
 
-Db2 Warehouse is not included in the current [Feast](https://github.com/feast-dev/feast) roadmap, this project intends to add Db2 Warehouse support as an Offline Store.  
+IBM Db2 databases are not included in the current [Feast](https://github.com/feast-dev/feast) roadmap, this project intends to add Db2 Warehouse support as an Offline Store.  
 
 This project draws heavily from the *feast-hive* impliementation (https://github.com/baineng/feast-hive) and could not have progressed this far without the work by Benn Ma.
 
